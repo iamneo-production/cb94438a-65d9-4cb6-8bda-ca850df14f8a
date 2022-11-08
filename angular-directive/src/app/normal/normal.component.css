@@ -6,7 +6,7 @@
 
 }
 
-#displayButton{
+#displayButton:hover{
     color: blue;
     font-weight: bold;
 
