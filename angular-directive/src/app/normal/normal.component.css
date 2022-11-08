@@ -1,0 +1,15 @@
+.container{
+
+    padding-top: 70px;
+
+    padding-left: 80px;
+
+}
+
+#displayButton{
+    color: blue;
+    font-weight: bold;
+
+    font-size: larger;
+
+}
